@@ -1,6 +1,16 @@
-# Programmation Multi-Threads
+# Programmation Concurrente en Multi-Threads
 
 Cette organisation contient les ressources et projets liés au cours **Programmation Concurrente en Multi-Threads** de Nantes Université.
+
+## Dépôts principaux
+
+- [**CM**](https://github.com/ProgrammationMultiThread/CM) — Slides de cours.
+  - [Slides](https://ProgrammationMultiThread.github.io/CM/CPMT.pdf): version PDF avec animations
+  - [Handout](https://ProgrammationMultiThread.github.io/CM/CPMT-handout.pdf): version PDF sans animation
+- [**TD**](https://github.com/ProgrammationMultiThread/TD) — Exercices de TD.
+  - Dépôt en construction : cette ressource n'est pas encore disponible.
+- [**TP**](https://github.com/ProgrammationMultiThread/TP) — Exercices de TP.
+  - Dépôt en construction : cette ressource n'est pas encore disponible.
 
 ## Description du module
 
@@ -37,20 +47,12 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 
 ### Bibliographie
 - M. Herlihy & N. Shavit. **The Art of Multiprocessor Programming**, Morgan Kaufmann, 2008.
+  > Référence principale sur la programmation concurrente en Java.
 - M. Raynal. **Concurrent Programming – Algorithms, Principles, and Foundations**, Springer, 2013.
-
-## Dépôts principaux
-Organisation en construction : les ressources ne sont pas encore disponiblae.  
-- [**CM**](https://github.com/ProgrammationMultiThread/CM) — Slides de cours.
-  - [Slides](https://ProgrammationMultiThread.github.io/CM/slides.pdf): version PDF avec animations
-  - [Handout](https://ProgrammationMultiThread.github.io/CM/handout.pdf): version PDF sans animation
-- [**TD**](https://github.com/ProgrammationMultiThread/TD) — Énoncés et corrections de TD.
-  - Dépôt privé accessible aux enseignants sur demande
-- [**TP**](https://github.com/ProgrammationMultiThread/TP) — Énoncés et corrections de TP.
-  - Dépôt privé accessible aux enseignants sur demande
+  > Référence pour les aspects plus algorithmiques du module.
 
 ## Cours liés
-Ce cours a été conçus comme la deuxième partie sur trois d'un cours sur la synchronisation des systèmes répartis : 
+Ce cours a été conçus comme la première partie sur trois d'un cours sur la synchronisation des systèmes répartis : 
 - [**Programmation Concurrente en Multi-Thread**](https://github.com/ProgrammationMultiThread) — Programmation multi-threads bloquante en mémoire partagée.
 - [**Programmation Distribuée**](https://github.com/AlgorithmiqueConcurrente) — Algorithmique concurrente non-bloquante en mémoire partagée.
 - [**Services de Communication et Systèmes Distribués**](https://github.com/DistributedComputing) — Algorithmique tolérante aux pannes en passage de messages.
