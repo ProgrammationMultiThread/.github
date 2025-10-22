@@ -8,7 +8,7 @@ Cette organisation contient les ressources et projets liés au cours **Programma
   - [Slides](https://ProgrammationMultiThread.github.io/CM/PCMT.pdf): version PDF avec animations
   - [Handout](https://ProgrammationMultiThread.github.io/CM/PCMT-handout.pdf): version PDF sans animation
 - [**TD**](https://github.com/ProgrammationMultiThread/TD) — Exercices de TD.
-  - Dépôt en construction : cette ressource n'est pas encore disponible.
+  - [Livret](https://ProgrammationMultiThread.github.io/TD/PCMT.pdf): livret de TD
 - [**TP**](https://github.com/ProgrammationMultiThread/TP) — Exercices de TP.
   - Dépôt en construction : cette ressource n'est pas encore disponible.
 
