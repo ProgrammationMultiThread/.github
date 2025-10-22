@@ -5,8 +5,8 @@ Cette organisation contient les ressources et projets liés au cours **Programma
 ## Dépôts principaux
 
 - [**CM**](https://github.com/ProgrammationMultiThread/CM) — Slides de cours.
-  - [Slides](https://ProgrammationMultiThread.github.io/CM/CPMT.pdf): version PDF avec animations
-  - [Handout](https://ProgrammationMultiThread.github.io/CM/CPMT-handout.pdf): version PDF sans animation
+  - [Slides](https://ProgrammationMultiThread.github.io/CM/PCMT.pdf): version PDF avec animations
+  - [Handout](https://ProgrammationMultiThread.github.io/CM/PCMT-handout.pdf): version PDF sans animation
 - [**TD**](https://github.com/ProgrammationMultiThread/TD) — Exercices de TD.
   - Dépôt en construction : cette ressource n'est pas encore disponible.
 - [**TP**](https://github.com/ProgrammationMultiThread/TP) — Exercices de TP.
