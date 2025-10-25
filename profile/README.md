@@ -2,15 +2,20 @@
 
 Cette organisation contient les ressources et projets liés au cours **Programmation Concurrente en Multi-Threads** de Nantes Université.
 
+---
+
 ## Dépôts principaux
 
 - [**CM**](https://github.com/ProgrammationMultiThread/CM) — Slides de cours.
   - [Slides](https://ProgrammationMultiThread.github.io/CM/PCMT.pdf): version PDF avec animations
   - [Handout](https://ProgrammationMultiThread.github.io/CM/PCMT-handout.pdf): version PDF sans animation
+  - [Java-snippets](https://github.com/ProgrammationMultiThread/Java-snippets): exemples Java du cours
 - [**TD**](https://github.com/ProgrammationMultiThread/TD) — Exercices de TD.
   - [Livret](https://ProgrammationMultiThread.github.io/TD/PCMT.pdf): livret de TD
 - [**TP**](https://github.com/ProgrammationMultiThread/TP) — Exercices de TP.
   - Dépôt en construction : cette ressource n'est pas encore disponible.
+
+---
 
 ## Description du module
 
@@ -51,13 +56,24 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - M. Raynal. **Concurrent Programming – Algorithms, Principles, and Foundations**, Springer, 2013.
   > Référence pour les aspects plus algorithmiques du module.
 
+---
+
 ## Cours liés
+
 Ce cours a été conçus comme la première partie sur trois d'un cours sur la synchronisation des systèmes répartis : 
 - [**Programmation Concurrente en Multi-Thread**](https://github.com/ProgrammationMultiThread) — Programmation multi-threads bloquante en mémoire partagée.
 - [**Programmation Distribuée**](https://github.com/AlgorithmiqueConcurrente) — Algorithmique concurrente non-bloquante en mémoire partagée.
 - [**Services de Communication et Systèmes Distribués**](https://github.com/DistributedComputing) — Algorithmique tolérante aux pannes en passage de messages.
 
+---
+
 ## Licence
-Sauf mention contraire, les contenus sont sous licence
-- [Creative Commons Attribution - ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) pour les sources LaTeX.
-- [MIT](https://opensource.org/licenses/MIT) pour les projets Java.
+
+Sauf mention contraire, les contenus de cette organisation sont distribués sous les licences suivantes :
+
+- **Supports pédagogiques (LaTeX, transparents, exercices, PDF)** :  
+  [Creative Commons Attribution - ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Code source Java (snippets, projets de TP)** :  
+  [MIT License](https://opensource.org/licenses/MIT)
+
+Les détails, ainsi que les mentions d'attribution, les licences des images et des données externes, sont disponibles dans le fichier [LICENSE.md](https://github.com/ProgrammationMultiThread/.github/blob/main/LICENSE.md).
