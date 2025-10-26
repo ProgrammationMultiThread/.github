@@ -23,7 +23,7 @@ You are free to **share** and **adapt** the material for any purpose, even comme
 
 ### Suggested attribution example
 
-> "*Programmation Concurrente en Multi-Threads* — 
+> "*Programmation Concurrente en Multi-Threads* —  
 > © 2025 Matthieu Perrin, CC BY-SA 4.0, no changes."  
 (or describe changes if you made any).
 
@@ -58,6 +58,7 @@ The following images are **original works** by the author of the project and are
 
 - `CM/src/img/TP_Mandelbrot.png`
 - `CM/src/img/TP_WebGrep.png`
+- `Exercises/src/img/mandelbrot_running.png`
 
 ### AI-generated images (DALL·E)
 
@@ -98,9 +99,10 @@ The following images are **not part of the project** and are shared according to
 
 The following logo is a **simple word or symbol mark** that does not meet the originality threshold for copyright protection  
 (public domain, see [Wikimedia Commons – Threshold of originality](https://commons.wikimedia.org/wiki/Commons:Threshold_of_originality)).
-It **remains a trademark** of its respective owner.
+It **remains a registered trademark** of its respective owner.
 
-- `TD/src/img/logoUN.png` — <https://www.univ-nantes.fr/medias/photo/logotype-nantes-u-noir-72dpi_1638965800927-png>
+- `Exercises/src/img/logoUN.png` — **trademark* of Nantes Université  
+  <https://www.univ-nantes.fr/medias/photo/logotype-nantes-u-noir-72dpi_1638965800927-png>
 
 ### Images not included in the repository
 
@@ -119,17 +121,26 @@ When a specific source is closely followed, it is **explicitly acknowledged** in
 
 ### Exercises
 
-- `TD/src/exercises/blocking/philosophers.tex` — Inspired from  E. W. Dijkstra, *Hierarchical ordering of sequential processes*. Acta informatica (1971).
-- `TD/src/exercises/introduction/mad.tex` — Inspired from M. Herlihy, N. Shavit. *The Art of Multiprocessor Programming*. Morgan Kaufmann (2008).
-- `TD/src/exercises/monitors/savages.tex` — Inspired from G. R. Andrews. *Foundations of Multithreaded, Parallel, and Distributed Programming*. Addison-Wesley (2000).
-- `TD/src/exercises/monitors/unisex.tex` — Inspired from A. B. Downey. *The Little Book of Semaphores*. Green Tea Press (2008).
+- `Exercises/src/exercises/blocking/philosophers.tex` — Inspired from  E. W. Dijkstra, *Hierarchical ordering of sequential processes*. Acta informatica (1971).
+- `Exercises/src/exercises/introduction/mad.tex` — Inspired from M. Herlihy, N. Shavit. *The Art of Multiprocessor Programming*. Morgan Kaufmann (2008).
+- `Exercises/src/exercises/monitors/savages.tex` — Inspired from G. R. Andrews. *Foundations of Multithreaded, Parallel, and Distributed Programming*. Addison-Wesley (2000).
+- `Exercises/src/exercises/monitors/unisex.tex` — Inspired from A. B. Downey. *The Little Book of Semaphores*. Green Tea Press (2008).
 
 ### Java code
 
-- `Java-snippets/src/main/java/snippets/liveness/Friend.java` — Adapted from Oracle's "Deadlock" example from the Java Tutorials :  
-  <https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html> (Oracle License)
-- `Java-snippets/src/main/java/snippets/memory/Volatile.java` — Inspired from Thibault Delor's InvalidCodeBlog project :  
-  <https://github.com/t-botz/InvalidCodeBlog/blob/master/src/main/java/com/invalidcodeexception/experiment/volatilekeyword/VolatileTest.java>
+The following files are adapted from the example "Deadlock" in the official [Oracle Java Tutorials on Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html).  
+Redistribution allowed with attribution (Oracle license terms).
+- `Java-snippets/src/main/java/snippets/liveness/Friend.java`
+- `TP-concurrence/src/main/java/concurrence/Friend.java`
+
+The following files are inspired from Thibault Delor's [InvalidCodeBlog project](https://github.com/t-botz/InvalidCodeBlog/blob/master/src/main/java/com/invalidcodeexception/experiment/volatilekeyword/VolatileTest.java).
+These files are *substantially modified* versions of the original example. They differ in structure, variable naming, and experimental setup, and should be considered **distinct original works** inspired by the source above.
+- `Java-snippets/src/main/java/snippets/memory/Volatile.java`
+- `TP-concurrence/src/main/java/concurrence/Volatile.java`
+
+The following file is inspired from Datsabk's blog post on [Mkyong.com](https://mkyong.com/java/java-thread-mutex-and-semaphore-example/).
+These files are *substantially modified* versions of the original example. They differ in structure, variable naming, and experimental setup, and should be considered **distinct original works** inspired by the source above.
+- `TP-concurrence/src/main/java/concurrence/CountingSemaphore.java`
 
 ### External data
 

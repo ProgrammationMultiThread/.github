@@ -4,16 +4,34 @@ Cette organisation contient les ressources et projets liés au cours **Programma
 
 ---
 
-## Dépôts principaux
+## Ressources du module
 
-- [**CM**](https://github.com/ProgrammationMultiThread/CM) — Slides de cours.
-  - [Slides](https://ProgrammationMultiThread.github.io/CM/PCMT.pdf): version PDF avec animations
-  - [Handout](https://ProgrammationMultiThread.github.io/CM/PCMT-handout.pdf): version PDF sans animation
-  - [Java-snippets](https://github.com/ProgrammationMultiThread/Java-snippets): exemples Java du cours
-- [**TD**](https://github.com/ProgrammationMultiThread/TD) — Exercices de TD.
-  - [Livret](https://ProgrammationMultiThread.github.io/TD/PCMT.pdf): livret de TD
-- [**TP**](https://github.com/ProgrammationMultiThread/TP) — Exercices de TP.
-  - Dépôt en construction : cette ressource n'est pas encore disponible.
+### Cours magistral
+
+- [Slides](https://ProgrammationMultiThread.github.io/CM/PCMT.pdf) : version PDF avec animations
+- [Handout](https://ProgrammationMultiThread.github.io/CM/PCMT-handout.pdf) : version PDF sans animation
+- [Java-snippets](https://github.com/ProgrammationMultiThread/Java-snippets) : exemples Java du cours
+- [Code source](https://github.com/ProgrammationMultiThread/CM) : code LateX des slides
+
+### Travaux dirigés
+
+- [Livret de TD](https://ProgrammationMultiThread.github.io/Exercises/td.pdf) : livret de TD
+- [Code source](https://github.com/ProgrammationMultiThread/Exercises) : code LateX du livret d'exercices
+
+### Travaux pratiques
+
+- TP 1 : Introduction à la concurrence
+  - [Sujet](https://ProgrammationMultiThread.github.io/Exercises/tp-concurrence.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/ProgrammationMultiThread/TP-concurrence): code Java à étudier
+- TP 2 : Recherche récursive d'expressions régulières sur le Web
+  - [Sujet](https://ProgrammationMultiThread.github.io/Exercises/tp-webgrep.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/ProgrammationMultiThread/TP-webgrep): code Java séquentiel à paralléliser
+- TP 3 : Parallélisation de calcul d'image
+  - [Sujet](https://ProgrammationMultiThread.github.io/Exercises/tp-mandelbrot.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/ProgrammationMultiThread/TP-mandelbrot): code Java séquentiel à paralléliser
+- TP 4 : Mémoire transactionnelle logicielle
+  - [Sujet](https://ProgrammationMultiThread.github.io/Exercises/tp-transactions.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/ProgrammationMultiThread/TP-transactions): code Java à compléter
 
 ---
 
