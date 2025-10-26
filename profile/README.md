@@ -11,12 +11,10 @@ Cette organisation contient les ressources et projets liés au cours **Programma
 - [Slides](https://ProgrammationMultiThread.github.io/CM/PCMT.pdf) : version PDF avec animations
 - [Handout](https://ProgrammationMultiThread.github.io/CM/PCMT-handout.pdf) : version PDF sans animation
 - [Java-snippets](https://github.com/ProgrammationMultiThread/Java-snippets) : exemples Java du cours
-- [Code source](https://github.com/ProgrammationMultiThread/CM) : code LateX des slides
 
 ### Travaux dirigés
 
 - [Livret de TD](https://ProgrammationMultiThread.github.io/Exercises/td.pdf) : livret de TD
-- [Code source](https://github.com/ProgrammationMultiThread/Exercises) : code LateX du livret d'exercices
 
 ### Travaux pratiques
 
