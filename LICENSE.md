@@ -33,7 +33,7 @@ You are free to **share** and **adapt** the material for any purpose, even comme
 
 Unless otherwise stated in the file header, all **Java source code and related project files** are distributed under the **MIT License**.
 
-All Java projects within this organization (e.g. `Java-snippets/`, `TP-webgrep/`, `TP-mandelbrot/`, `TP-transactional-memory/`) include their own [`LICENSE.txt`](../Java-snippets/LICENSE.txt) file containing the full MIT License text.
+All Java projects within this organization (e.g. `Java-snippets/`, `TP-mandelbrot/`) include their own [`LICENSE.txt`](../Java-snippets/LICENSE.txt) file containing the full MIT License text.
 
 This license applies only to the **original Java code** provided as part of the *Programmation Concurrente en Multi-Threads* course at Nantes Université.  
 External libraries and dependencies (e.g. JSoup, JUnit) are distributed under their own respective licenses.
@@ -54,7 +54,7 @@ Please verify third-party licenses before redistributing compiled PDFs that incl
 
 ### Original illustrations
 
-The following images are **original works** by the author of the project and are licensed under the **Creative Commons Attribution–ShareAlike 4.0 International** (CC BY-SA 4.0).
+The following images are **original works** by the project author and are licensed under the **Creative Commons Attribution–ShareAlike 4.0 International** (CC BY-SA 4.0).
 
 - `CM/src/img/TP_Mandelbrot.png`
 - `CM/src/img/TP_WebGrep.png`
@@ -64,8 +64,8 @@ The following images are **original works** by the author of the project and are
 
 The following illustrations were generated using **OpenAI's DALL·E** model.
 
-These images are **original works** created by the project author (Matthieu Perrin) using prompts designed specifically for educational purposes.
-They are released under the same license as the rest of this repository (**CC BY-SA 4.0**), unless otherwise noted.
+These images are **original works** created by the project author using prompts designed specifically for educational purposes.
+They are licensed under the **Creative Commons Attribution–ShareAlike 4.0 International** (CC BY-SA 4.0), unless otherwise noted.
 
 DALL·E output is not subject to any additional copyright or usage restrictions beyond those of this project’s license.
 
@@ -101,7 +101,7 @@ The following logo is a **simple word or symbol mark** that does not meet the or
 (public domain, see [Wikimedia Commons – Threshold of originality](https://commons.wikimedia.org/wiki/Commons:Threshold_of_originality)).
 It **remains a registered trademark** of its respective owner.
 
-- `Exercises/src/img/logoUN.png` — **trademark* of Nantes Université  
+- `Exercises/src/img/logoUN.png` — **trademark** of Nantes Université  
   <https://www.univ-nantes.fr/medias/photo/logotype-nantes-u-noir-72dpi_1638965800927-png>
 
 ### Images not included in the repository
@@ -116,7 +116,7 @@ The following images are **not stored in this repository** and are **not redistr
 ## Acknowledgments and Sources
 
 Some teaching material in this organization (e.g. exercises, code snippets or raw data) is **inspired by or adapted from** external sources such as in textbooks or research articles on concurrent programming.  
-All statements have been **translated, rewritten, and contextualized** for educational use, without verbatim reproduction of any protected material.  
+All statements have been **translated, rewritten, or contextualized** for educational use, without verbatim reproduction of any protected material.  
 When a specific source is closely followed, it is **explicitly acknowledged** in the file header or in a footnote within the derived pdf material.
 
 ### Exercises
