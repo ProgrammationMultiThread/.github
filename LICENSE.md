@@ -1,7 +1,7 @@
 # Global License and Attributions
 
 This file applies to all repositories under the **ProgrammationMultiThread** organization.  
-Each repository includes its own [`LICENSE.txt`](../<repo>/LICENSE.txt) containing the full legal text of its primary license (MIT for code, CC BY-SA 4.0 for teaching materials).
+Each repository includes its own `LICENSE.txt` containing the full legal text of its primary license (MIT for code, CC BY-SA 4.0 for teaching materials).
 
 **Author:** Matthieu Perrin  
 **Copyright:** © 2025 Matthieu Perrin
